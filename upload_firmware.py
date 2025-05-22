@@ -110,4 +110,4 @@ def upload_firmware(firmware_file, version, device_type, description=""):
 
 # Example usage
 if __name__ == "__main__":
-    upload_firmware("RHEA_V3.bin", "3.1.0", "V3_003", "Second release device no:3")
+    upload_firmware("RHEA_V3.bin", "3.1.0", "V3_001", "Second release device no:1")
