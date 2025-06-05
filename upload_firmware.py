@@ -204,4 +204,4 @@ if __name__ == "__main__":
     # Uncomment to test CRC calculation first
     # test_crc_calculation()
     
-    upload_firmware("RHEA_V3.bin", "3.1.0", "V3_001", "Second release device no:1")
+    upload_firmware("RHEA_V3.bin", "3.1.0", "V3_6N_tz", "Second release device no:1")
